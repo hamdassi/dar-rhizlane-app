@@ -1,0 +1,1 @@
+export const darRhizlaneLogo = 'https://static.wixstatic.com/media/a13ed9_1c619b23c46d4b3e971b78587fb1f1f1~mv2.png/v1/crop/x_0,y_3,w_818,h_975/fill/w_378,h_460,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Dar_Rhizlane_85_OK.png';
